@@ -1,0 +1,12 @@
+name: a4-climate-datadraco
+title: a4-climate-datadraco
+username:
+account: drakerw
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3724501
+bundleId: 4292466
+url: https://drakerw.shinyapps.io/a4-climate-datadraco/
+when: 1614724055.12751
+asMultiple: FALSE
+asStatic: FALSE
